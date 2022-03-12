@@ -1,0 +1,6 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+canvas { border: 1px solid black; }
